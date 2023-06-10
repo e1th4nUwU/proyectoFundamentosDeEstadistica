@@ -1,6 +1,6 @@
 # 🧐 Proyecto de Fundamentos de Estadística 🧐
 
-Este repositorio contiene el proyecto de fundamentos de estadística realizado para [nombre del curso o asignatura]. El proyecto se enfoca en [breve descripción del objetivo o tema del proyecto].
+Este repositorio código utilzado el proyecto de fundamentos de estadística. Mi parte del proyecto se enfocó en estadística descriptiva y regresión lineal.
 
 ## Contenido
 
